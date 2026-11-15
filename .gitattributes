@@ -1,0 +1,11 @@
+* text=auto
+*.cpp text eol=lf
+*.h text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.uplugin text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+*.uasset binary
+*.png binary

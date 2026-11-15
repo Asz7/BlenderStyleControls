@@ -1,0 +1,29 @@
+# Unreal Engine generated output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# Local IDE files and generated project files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.obj
+*.log
+
+# Local configuration
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

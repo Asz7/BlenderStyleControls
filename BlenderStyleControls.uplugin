@@ -1,0 +1,35 @@
+{
+  "FileVersion": 3,
+  "Version": 6,
+  "VersionName": "1.4.0",
+  "FriendlyName": "Blender 操作 / Blender Style Controls",
+  "Description": "Blender式建模操作、明亮棚光与MatCap、HDRI材质预览、可调叠加层。",
+  "Category": "Editor",
+  "CreatedBy": "Asz7 (迷迷)",
+  "EngineVersion": "5.4.0",
+  "CanContainContent": true,
+  "EnabledByDefault": true,
+  "Installed": false,
+  "SupportedTargetPlatforms": [
+    "Win64"
+  ],
+  "Modules": [
+    {
+      "Name": "BlenderStyleControls",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit",
+      "PlatformAllowList": [
+        "Win64"
+      ]
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "MeshModelingToolset",
+      "Enabled": true
+    }
+  ],
+  "CreatedByURL": "https://github.com/Asz7",
+  "DocsURL": "https://github.com/Asz7/BlenderStyleControls#readme",
+  "SupportURL": "https://github.com/Asz7/BlenderStyleControls/issues"
+}
